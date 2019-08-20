@@ -2,6 +2,8 @@
     export let callback = () => false;
     export let disabled = false;
     export let text = 'click';
+
+    console.log(text);
 </script>
 
 <style>
@@ -9,6 +11,7 @@
         display: flex;
         padding: 5;
         width: 100%;
+        cursor: pointer;
     }
 </style>
 

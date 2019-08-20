@@ -5,6 +5,7 @@
     function hangeFieldOnСhange(field, value) {
         
     }
+
 </script>
 
 <div>
@@ -32,12 +33,11 @@
         on:change={hangeFieldOnСhange}
     />
 
-    
     <Field 
         label='Number' 
         field='number'
         on:change={hangeFieldOnСhange}
     />
 
-    <Button text='Save'>
+    <Button text='Save' />
 </div> 

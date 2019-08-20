@@ -10,8 +10,8 @@
 
     .input {
         width: 100%;
-    }
-    
+    }   
+
 </style>
 
 <div class='field'>
